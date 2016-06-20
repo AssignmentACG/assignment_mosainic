@@ -1,0 +1,9 @@
+body, html, #map, #upload {
+  width: 100%;
+  height: 100%;
+  margin: 0; }
+
+#upload::before {
+  content: "Drop Files in white area"; }
+
+/*# sourceMappingURL=style.css.map */
